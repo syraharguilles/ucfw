@@ -1,0 +1,6 @@
+# This folder does not require access over HTTP
+# (the following directive denies access by default)
+
+
+RewriteEngine On
+RewriteRule ^([^/\.]+)$ index.php?page=$1 [L]

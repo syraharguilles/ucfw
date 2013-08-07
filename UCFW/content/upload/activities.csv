@@ -1,0 +1,9 @@
+actname,actheld,actdate,acttimestart,mnostart,acttimeend,mnoend,actsem,actyear
+act1,wala,2012/9/21,7:00:00,1,12:00:00,2,1st sem,2012-2013
+act2,wala,2012/9/22,8:00:00,1,1:00:00,2,2nd sem,2012-2013
+act3,wala,2012/9/23,9:00:00,1,2:00:00,2,1st sem,2012-2013
+act4,wala,2012/9/24,10:00:00,1,3:00:00,2,2nd sem,2012-2013
+act5,wala,2012/9/25,11:00:00,1,4:00:00,2,1st sem,2012-2013
+act6,wala,2012/9/26,12:00:00,2,5:00:00,2,2nd sem,2012-2013
+act7,wala,2012/9/27,1:00:00,2,6:00:00,2,1st sem,2012-2013
+act8,wala,2012/9/28,2:00:00,2,7:00:00,2,2nd sem,2012-2013
